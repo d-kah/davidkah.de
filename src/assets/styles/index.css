@@ -1,0 +1,15 @@
+/* src/assets/styles/index.css */
+
+@tailwind base;
+/*@tailwind components;*/
+/*@tailwind utilities;*/
+
+:root {
+  --red: #F03009;
+  --yellow: #FFF310;
+  --warm-yellow: #FFE310;
+  --light-yellow: rgb(255, 255, 179);
+  --primary-color: #007bff;
+  --secondary-color: #6c757d;
+
+}
